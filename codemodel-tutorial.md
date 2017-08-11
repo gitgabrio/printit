@@ -1,6 +1,6 @@
 ## CodeModel – Basics
 
-Source: blogtech.cardosi.net/2013/03/19/tutorial-java-codemodel-basics/
+Source: https://blogtechcardosi.wordpress.com/2013/03/19/tutorial-java-codemodel-basics/
 
 This part of the tutorial is about basic Java code generation using CodeModel.
 
